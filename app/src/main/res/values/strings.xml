@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">try1</string>
+    <string-array name="my_place">
+        <item>a mall</item>
+        <item>ab mall</item>
+        <item>ac mall</item>
+        <item>abbb mall</item>
+        <item>akk mall</item>
+    </string-array>
+
+    <string-array name="my_bank">
+        <item>icici bank</item>
+        <item>dbs </item>
+        <item>karnataka bank</item>
+        <item>canara bank</item>
+        <item>state bank of India</item>
+    </string-array>
+    <string name="title_activity_booking">booking</string>
+
+</resources>
